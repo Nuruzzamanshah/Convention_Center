@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body{
+    font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
 }
 .title{
@@ -10,4 +12,22 @@ footer{
 }
 .title1{
     padding-top: 7%;
+}
+.teal-1{
+    width: 168px;
+    height: 44px;
+    background-color: #fff;
+}
+.teal{
+    border-radius: 50px;
+    background-color: #F496D1;
+    color: #3F87F5;
+    width: 207px;
+    height: 45px;
+}
+.teals{
+    border-radius: 50px;
+    background-color: #f8ecf4;
+    width: 207px;
+    height: 45px;
 }
